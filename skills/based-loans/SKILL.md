@@ -74,7 +74,7 @@ Details and edge cases: [references/borrowing.md](references/borrowing.md).
 ## Buying back (full or partial)
 
 1. `get_borrower_loans` (or `get_loan`) to find the loan, its remaining buyback amount and due date.
-2. `build_buyback` with the loan ID. Omit `payment_usdc` to pay in full and get all the collateral back. A partial payment (at least 1 USDC) returns a matching share of the collateral, and the rest stays in the loan until the due date.
+2. `build_buyback` with the loan ID. Omit `payment_usdc` to pay in full and get all the collateral back. A partial payment (at least 1 USDC) returns a proportional share of the collateral, and the rest stays in the loan until the due date.
 
 ## Lending
 
