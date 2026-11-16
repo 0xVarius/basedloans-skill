@@ -103,6 +103,7 @@ To be clear about what installing this does:
 ## Related
 
 - Website: https://based.loans
+- Privacy: https://based.loans/privacy
 - Docs for AI agents: https://docs.based.loans/ai-agents
 - Developer toolkit (TypeScript SDK, MCP server, Coinbase AgentKit provider): https://github.com/0xVarius/basedloans-agents
 - npm: [`@basedloans/sdk`](https://www.npmjs.com/package/@basedloans/sdk), [`@basedloans/mcp`](https://www.npmjs.com/package/@basedloans/mcp), [`@basedloans/agentkit`](https://www.npmjs.com/package/@basedloans/agentkit)

@@ -2,9 +2,24 @@
   "name": "based-loans",
   "version": "0.1.0",
   "description": "Borrow USDC against crypto tokens on Base with no liquidations, or lend USDC for fixed-term returns. Adds the Based Loans skill and the hosted Based Loans MCP server (quotes, token risk data, positions, ready-to-sign transactions).",
-  "author": { "name": "Based Loans", "url": "https://based.loans" },
+  "author": {
+    "name": "Based Loans",
+    "url": "https://based.loans"
+  },
   "homepage": "https://based.loans",
   "repository": "https://github.com/0xVarius/basedloans-skill",
   "license": "MIT",
-  "keywords": ["base", "defi", "lending", "borrowing", "usdc", "loans", "no-liquidation", "crypto", "mcp", "agent-skill"]
+  "keywords": [
+    "base",
+    "defi",
+    "lending",
+    "borrowing",
+    "usdc",
+    "loans",
+    "no-liquidation",
+    "crypto",
+    "mcp",
+    "agent-skill"
+  ],
+  "privacyPolicyUrl": "https://based.loans/privacy"
 }
