@@ -1,0 +1,16 @@
+{
+  "name": "based-loans",
+  "owner": { "name": "Based Loans", "url": "https://based.loans" },
+  "metadata": {
+    "description": "Based Loans for Claude Code: borrow USDC against Base tokens with no liquidations, or lend USDC."
+  },
+  "plugins": [
+    {
+      "name": "based-loans",
+      "source": "./",
+      "description": "Borrow USDC against crypto tokens on Base with no liquidations, or lend USDC for fixed-term returns. Skill plus the hosted Based Loans MCP server.",
+      "category": "finance",
+      "homepage": "https://based.loans"
+    }
+  ]
+}
